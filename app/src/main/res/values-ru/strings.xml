@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Markup</string>
+    <string name="fio">Заблотский Илья Александрович</string>
+    <string name="spec">математическое и программное обеспечение мобильных устройств</string>
+    <string name="group">05</string>
+    <string name="V">Вертикальное представление</string>
+    <string name="H">Горизонтальное представление</string>
+</resources>

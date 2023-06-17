@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Markup</string>
+    <string name="fio">Zablotski Ilya Alexsandrovich</string>
+    <string name="spec">math and mobile device software</string>
+    <string name="group">05</string>
+    <string name="V">Portrait View</string>
+    <string name="H">Landscape View</string>
+</resources>
